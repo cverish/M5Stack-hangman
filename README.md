@@ -47,7 +47,7 @@ This is a hangman game for use on the M5Stack Faces kit with the keyboard module
 ## Credits
 
 - Creator: Clarissa Verish
-- Significant contributions from Matthieu Lalonde in 'sd_runner.cpp'
+- Significant contributions from Matthieu Lalonde in `sd_runner.cpp`
 
 ## Next steps
 
