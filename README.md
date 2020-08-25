@@ -31,11 +31,11 @@ This is a hangman game for use on the M5Stack Faces kit with the keyboard module
 - Install the PlatformIO extension
 - Install the ESP32 platform on PlatformIO
 - Open the M5Stack_Hangman folder on PlatformIO
-- Run 'main.py' in 'utils/generate_dict' to create 'clean_dict.txt'
-  '''
+- Run `main.py` in `utils/generate_dict` to create `clean_dict.txt`
+  ```
   $ cd utils/generate_dict
   $ python3 main.py
-  '''
+  ```
 - Upload clean_dict.txt to a micro-SD card and place in the M5Stack
 - Click the BUILD button to compile the game!
 
