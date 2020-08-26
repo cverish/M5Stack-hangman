@@ -194,6 +194,8 @@ void clearGame()
 */
 void initiateGame()
 {
+  // reset the currentLetter
+  currentLetter = 0;
   // draw the init screen
   drawInitScreen();
   // if the word does not set up properly, display the SD Card error. Loop forever to keep status up - game will not continue.
